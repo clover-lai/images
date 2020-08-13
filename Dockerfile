@@ -1,2 +1,1 @@
-FROM kube-proxy-amd64:v1.13.1
-#T
+FROM k8s.gcr.io/kube-proxy-amd64:v1.13.1
