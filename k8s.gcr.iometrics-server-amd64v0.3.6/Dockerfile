@@ -1,0 +1,1 @@
+FROM k8s.gcr.iometrics-server-amd64v0.3.6
